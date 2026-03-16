@@ -24,14 +24,6 @@ Concepts: Responsive design, UI/UX principles, interactive UI, clean code, testi
 
 ## Projects
 
-1. ZenGarden  
-A calm, web-based application designed to provide an interactive and relaxing experience.  
-- Built with HTML, CSS, and JavaScript  
-- Features responsive design for all screen sizes  
-- Interactive elements like hover effects and dynamic content  
-- Focused on minimalist design and usability  
-[ZenGarden Repository](https://github.com/Ziloe/Zen-Garden)
-
 2. 450 Fishing Game  
 An interactive web game where players engage in a fishing simulation.  
 - Demonstrates front-end game mechanics using JavaScript  
@@ -45,6 +37,14 @@ A database project simulating a small retail business inventory system.
 - Practiced data organization, querying, and maintaining relational integrity  
 - Focused on usability and data consistency  
 [Tates Trading Post Repository](https://github.com/Ziloe/Database-Project)
+
+1. ZenGarden  
+A calm, web-based application designed to provide an interactive and relaxing experience.  
+- Built with HTML, CSS, and JavaScript  
+- Features responsive design for all screen sizes  
+- Interactive elements like hover effects and dynamic content  
+- Focused on minimalist design and usability  
+[ZenGarden Repository](https://github.com/Ziloe/Zen-Garden)
 
 ---
 
